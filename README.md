@@ -1,16 +1,10 @@
-# projetenfant
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+mon app "Apprendre te Grandir"
+est une application Flutter qui sert à cultiver les engants de 4 à 8 ans dans tous les dommaines de vie (sports,couleurs ... )
+mon app contient 6 mini-app qui sont :
+-calculatrice 
+-couleurs (cultiver l'enfant à connaitre les couleurs)
+-draw (app de paintre)
+-pays (API utiliseé qui sert à donner le drapeau de chaque pays selectionné)
+-sport(donner des informations generales sur chaque sport)
+-todo (simple to do list)
+avec une interface de login et register (creer compte) au depart pour acceder à l'app (base local (sqlite))
