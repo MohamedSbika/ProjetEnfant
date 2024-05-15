@@ -1,4 +1,4 @@
-mon app "Apprendre te Grandir"
+mon app "Apprendre et Grandir"
 est une application Flutter qui sert à cultiver les engants de 4 à 8 ans dans tous les dommaines de vie (sports,couleurs ... )
 mon app contient 6 mini-app qui sont :
 -calculatrice 
